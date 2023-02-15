@@ -208,6 +208,12 @@
 }
   
 
+#hero {
+  background: linear-gradient(rgba(66, 84, 81, 0.5), rgba(43, 56, 54, 0.5)), url("images/pexels-roberto-nickson-2559941.jpg") fixed center center;
+  background-size: cover;
+  width: 100%;
+}
+
 #intro {
   background: linear-gradient(rgba(66, 84, 81, 0.5), rgba(43, 56, 54, 0.5)), url("images/IMG-20220803-WA0018.jpg") fixed center center;
   background-size: cover;
